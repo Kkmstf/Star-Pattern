@@ -1,1 +1,1 @@
-# game-snake-water-gun
+# It is a snake water gun game
