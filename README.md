@@ -1,1 +1,1 @@
-# It is a snake water gun game
+# This is a python program to set star pattern
